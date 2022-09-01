@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conta/1.0.0": {
+        "dependencies": {
+          "Conta.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Conta.dll": {}
+        }
+      },
+      "Conta.Entities/1.0.0": {
+        "runtime": {
+          "Conta.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Conta.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

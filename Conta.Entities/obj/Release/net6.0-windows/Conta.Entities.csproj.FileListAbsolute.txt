@@ -1,0 +1,12 @@
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\bin\Release\net6.0-windows\Conta.Entities.deps.json
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\bin\Release\net6.0-windows\Conta.Entities.dll
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\bin\Release\net6.0-windows\Conta.Entities.pdb
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.csproj.AssemblyReference.cache
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.AssemblyInfoInputs.cache
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.AssemblyInfo.cs
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.dll
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\refint\Conta.Entities.dll
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\Conta.Entities.pdb
+C:\Users\Edipo\Downloads\Conta\Conta\Conta.Entities\obj\Release\net6.0-windows\ref\Conta.Entities.dll
